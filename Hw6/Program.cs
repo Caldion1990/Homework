@@ -8,7 +8,7 @@ if (a == 0)
 {
     Console.Write("четное");
 }
-else 
+else
 {
     Console.Write("нечетное");
 }
