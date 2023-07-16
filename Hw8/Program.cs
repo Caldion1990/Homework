@@ -7,7 +7,7 @@ for (int i = 1; i <= n; i++)
 {
     int a = i % 2;
     if (a == 0)
-    {   
-    Console.Write(i +" ");
+    {
+        Console.Write(i + " ");
     }
 }
